@@ -1,0 +1,7 @@
+body {
+  background-color: #c0c0c0;   // light gray
+  font-family: arial, san-serif;
+}
+.importanttext {
+  font-weight: bold;
+  color: red;}
